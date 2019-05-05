@@ -1,0 +1,8 @@
+画像処理千本ノック　https://qiita.com/yoyoyo_/items/2ef53f47f87dcf5d1e14
+ディープラーニング∞ノック　https://qiita.com/yoyoyo_/items/cd5b859341106c3b52f9
+Seq2Seqポケモン　https://qiita.com/yoyoyo_/items/cfbbe8c65f9634763dec
+言語処理100本ノック　https://qiita.com/segavvy/items/fb50ba8097d59475f760
+
+メディカルAI専門コース　https://japan-medical-ai.github.io/medical-ai-course-materials/index.html
+
+Colaboratory記事 https://www.tech-run.net/ja/contents/google-colaboratory/
